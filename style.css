@@ -1,0 +1,8 @@
+@charset "UTF-8";
+body {
+    background-color:#fffeee;
+}
+/* 画面幅の50%の幅で画像を表示 */
+.topimg img{
+    width : 50vw ; 
+}
